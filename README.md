@@ -1,3 +1,2 @@
-# BIT- COP Readme
+# Readme
 
-Version: COP v7r1
